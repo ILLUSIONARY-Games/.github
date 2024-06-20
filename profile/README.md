@@ -1,12 +1,24 @@
-## Hi there 👋
+## Welcome to ILLUSIONARY Games
 
-<!--
+**ILLUSIONARY Games** is a video game development studio dedicated to creating exciting and fun games for users of all ages. We specialize in offering great gaming experiences across various platforms, including the web, PCs, and mobile devices.
 
-**Here are some ideas to get you started:**
+### About Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ILLUSIONARY Games is operated by Gustav Lübker, who handles everything from ideas to release. Each game is made with care, focusing on unique and engaging experiences. Our goal is to deliver games that players of all tastes can enjoy.
+
+### Explore Our Games
+
+You can play all of our games on our [official website](https://illusionarygames.com).
+
+### Connect With Us
+
+Stay updated with the latest news and connect with us through our social media:
+
+- 🐦 [Twitter](https://x.com/GustavLubker)
+- 📂 [GitHub](https://github.com/Glubker)
+- 🎥 [YouTube](https://www.youtube.com/channel/UCKJEstplk9TCkiURx-utLmQ)
+- 💬 [Discord](https://discord.gg/cCCguyEych)
+
+For any issues or feedback, please reach out to us by [email(mailto:mail@illusionarygames.com)] or through our [Discord server](https://discord.com/invite/YourDiscordInvite).
+
+Please note this is our Github organization where all of our projects are managed internally. Please instead use our [website](https://illusionarygames.com) to play our games and learn more about us.
